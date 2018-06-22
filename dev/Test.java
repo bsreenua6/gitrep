@@ -1,2 +1,4 @@
 class Test{
 }
+class B{
+}

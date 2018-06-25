@@ -5,3 +5,4 @@ class A{
 class B{
 }
 class D{}
+class E{}

@@ -11,4 +11,6 @@ sdfsd
 testing
 
 class Y{
+   int a=10;
 }
+

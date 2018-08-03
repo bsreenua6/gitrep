@@ -16,4 +16,4 @@ class Y{
    int c=30;
    int d=40;
 }
-
+class X{}
